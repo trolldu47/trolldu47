@@ -1,7 +1,6 @@
 <h1 align="center">
   🎮💻 Hey salut 💻🎮  
   <br>
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80" />
 </h1>
 
 <p align="center">
